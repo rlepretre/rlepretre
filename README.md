@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rlepretre
 - 🌱 I’m currently learning computer engineering in ECAM Brussels
-- 📫 How to reach me romain.lepretre@me.com
+- 📫 Reach me at romain.lepretre@me.com
 
 <!---
 rlepretre/rlepretre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
