@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rlepretre
-- 🌱 I’m a computer engineer currently looking for a job
+- 🌱 I’m a computer engineer graduate from ECAM Brussels currently looking for a job
 - 📫 Reach me at romain.lepretre@me.com
 
 <!---
