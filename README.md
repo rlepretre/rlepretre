@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rlepretre
-- 🌱 I’m currently learning computer engineering in ECAM Brussels
+- 🌱 I’m a computer engineer currently looking for a job
 - 📫 Reach me at romain.lepretre@me.com
 
 <!---
